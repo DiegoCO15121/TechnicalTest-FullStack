@@ -1,0 +1,21 @@
+# dependencies
+node_modules
+
+# build
+dist
+build
+
+# env files
+.env
+*.env
+
+# logs
+logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# docker volumes
+postgres
